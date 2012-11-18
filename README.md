@@ -1,4 +1,4 @@
-# Yet Another GPlus RSS Feed Generator
+# Scarf - Yet Another GPlus RSS Feed Generator
 
 This is a simple [nodejs](nodejs.org) server for generating RSS feeds for your
 [public Google+ posts](https://developers.google.com/+/api/latest/activities).
@@ -32,8 +32,8 @@ The server defaults to running on port 5051.
 Read the [Heroku Quickstart Guide](https://devcenter.heroku.com/articles/quickstart) then:
 
 ```
-git clone git@github.com:dpup/gplusrss.git
-cd gplusrss
+git clone git@github.com:dpup/scarf.git
+cd scarf
 heroku create
 git push heroku master
 heroku config:add G_API_KEY=[your-api-key]

@@ -1,5 +1,5 @@
 {
-  "name": "gplusrss",
+  "name": "scarf",
   "version": "1.0.0",
   "keywords": [
     "google+",
@@ -12,17 +12,12 @@
     "generator"
   ],
   "description": "Generates an RSS feed for your public Google+ posts",
-  "homepage": "https://github.com/dpup/gplusrss",
+  "homepage": "https://github.com/dpup/scarf",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dpup/gplusrss.git"
+    "url": "https://github.com/dpup/scarf.git"
   },
-  "licenses": [
-    {
-      "type": "Apache 2.0",
-      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
-    }
-  ],
+  "license": "MIT",
   "author": {
     "name": "Dan Pupius",
     "email": "dan@pupi.us",
