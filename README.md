@@ -3,8 +3,9 @@
 This is a simple [nodejs](nodejs.org) server for generating RSS feeds for your
 [public Google+ posts](https://developers.google.com/+/api/latest/activities).
 
-Due to API limits I'm not going to try running this as a service, but feel free to fork the code and
-run your own version.  You can get it up and running with Heroku really quickly.
+I primarily built this so I could have G+ posts as inputs into [IFTTT](http://ifttt.com).  Due to
+API limits I'm not going to try running this as a service, but feel free to fork the code and run
+your own version.  You can get it up and running with Heroku really quickly.
 
 
 ## Set up
