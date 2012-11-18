@@ -37,6 +37,7 @@
   "dependencies": {
     "dys": "0.1.4",
     "entities": "0.1.1",
+    "logg": "0.1.3",
     "rss": "0.0.4"
   }
 }
