@@ -1,0 +1,42 @@
+{
+  "name": "gplusrss",
+  "version": "1.0.0",
+  "keywords": [
+    "google+",
+    "g+",
+    "google",
+    "plus",
+    "rss",
+    "activity",
+    "feed",
+    "generator"
+  ],
+  "description": "Generates an RSS feed for your public Google+ posts",
+  "homepage": "https://github.com/dpup/gplusrss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dpup/gplusrss.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "author": {
+    "name": "Dan Pupius",
+    "email": "dan@pupi.us",
+    "url": "http://pupius.co.uk/"
+  },
+  "engine": {
+    "node": "*"
+  },
+  "scripts": {
+    "start": "node lib/server.js"
+  },
+  "dependencies": {
+    "dys": "0.1.4",
+    "entities": "0.1.1",
+    "rss": "0.0.4"
+  }
+}
