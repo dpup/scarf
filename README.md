@@ -39,6 +39,11 @@ git push heroku master
 heroku config:add G_API_KEY=[your-api-key]
 ```
 
+## Viewing feeds
+
+Feeds will then be available at `http://host:port/profileid`. Mine, for example, is
+`http://localhost:5051/111499016778755078481`.
+
 Author
 ------
 
